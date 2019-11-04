@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
     <title>satRday</title>
-    <meta charset="utf-8">
-    <meta name="author" content="DATE" />
+    <meta charset="utf-8" />
+    <meta name="author" content="14 March 2020" />
     <link rel="stylesheet" href="custom.css" type="text/css" />
     <link rel="stylesheet" href="slides.css" type="text/css" />
   </head>
@@ -12,8 +12,8 @@
 class: center, middle, inverse, title-slide
 
 # <img src= 'img/placeholder.png' width = '40%'></br></br>satRday
-## CITY
-### DATE
+## Neuchâtel
+### 14 March 2020
 
 ---
 
@@ -100,19 +100,16 @@ class: slide
 
 How can you help satRday? 
 
-+ __Sponsoring Venue__ : make your venue available for the event. 
 
 + __Sponsoring Lunch__ : finance the lunch break.
 
 + __Sponsoring Coffee Break__ : finance one or two coffee breaks.
 
-+ __Sponsoring Logistic__ : support the general logistics of the event (help on site with the installation and overall organisation of the day).
++ __Sponsoring Scholarships__ : you sponsor a limited amount of scholarships for students (travel + conference ticket). 
 
-+ __Sponsoring Communication__ : sponsor the printing of posters, flyers, leaflets, website costs and marketing via social media.
++ __Sponsoring Daycare__ : you sponsor the children daycare. 
 
-+ __Sponsoring Goodies__ : sponsor the creation of goodies for the event: tshirts, stickers etc.
-
-+ __Sponsoring General Finance__ : you sponsor the event in a more traditional way with a direct financial donation.
++ __Sponsoring General Finance__ : you sponsor the event in a more traditional way with a direct financial donation (e.g. reimbursement of travel costs of speakers).
 
 ---
 class: slide 
@@ -123,11 +120,9 @@ Depending on your sponsorship, you will have, in return:
 
 + Visibility on satRday's __website__ and __Twitter account__.
 
-+ Your __logo__ on the posters, flyers and programs.
++ Your __logo__ on the posters and programs.
 
 + Your __logo__ on the opening, break, and closing slides of the conference. 
-
-+ A __stand__, on site, during breaks.
 
 ---
 class: slidish 
@@ -157,25 +152,62 @@ class: slidish
 + Belgrade 
 
 + Washington 
+
+
 ]
 
 .pull-right[
-&lt;/br&gt;
-&lt;/br&gt;
 
-&lt;img src="presentation-en_files/figure-html/unnamed-chunk-1-1.png" width="672" /&gt;
+### 2019 
 
++ [Paris](https://paris2019.satrdays.org/) 
+
++ [Berlin](https://berlin2019.satrdays.org/)
+
++ Kampala
+
++ Gdansk
+
++ Chicago
+
++ Los Angeles
+
++ Newcastle upon Tyne
+
++ Johannesburg
+    
 ]
 
 ---
 classe: slide 
 
-## PLACE YEAR 
+## Neuchâtel 2020 
 
 ### The Organising team
 
+- [Xavier Adam](https://www.linkedin.com/in/xavier-adam-75803957/): Genève R user group co-organiser, course developer and instructor at EPFL Extension School. 
 
-About your organising team...
+- [Enrico Chavez](https://www.linkedin.com/in/enrico-chavez-77518311/): course developer and instructor at EPFL Extension School. 
+
+- [Elise Dupuis Lozeron](https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/): Statistician at University Hospital in Geneva. 
+
+- [Sina Rüeger](https://www.linkedin.com/in/sinarueeger/): former R-Ladies Lausanne co-organiser and PostDoc at EPFL, now Data Analyst in Helsinki, Finland.  
+
+---
+classe: slide 
+
+## Neuchâtel 2020 
+
+Why such an event in Switzerland? 
+
+- Bringing all R meetups in Switzerland together
+
+- Connecting industry sectors and academia
+
+- Bridging the gap between meetups in the evening and larger, yearly-held conferences such as eRUM, useR, EARL. 
+
+- Highlighting the talents of the R community we have here in Switzerland
+
 
 ---
 class: slidish
@@ -229,6 +261,7 @@ class: slide
 
 + Companies using R : https://github.com/ThinkR-open/companies-using-r
 
+
 ---
 class: slide 
 
@@ -248,24 +281,64 @@ class: contact
 ## WHO WHO
 
 ### this@that.com
-
-### who you gonna call
     </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create();
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
 });
-(function() {
-  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
   if (!r) return;
   s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
   d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
 })();</script>
 
 <script>
 (function() {
-  var i, text, code, codes = document.getElementsByTagName('code');
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
   for (i = 0; i < codes.length;) {
     code = codes[i];
     if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
@@ -279,14 +352,15 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     i++;
   }
-})();
+};
+slideshow._releaseMath(document);
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);
