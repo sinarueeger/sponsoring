@@ -212,21 +212,23 @@ class: slide
 background-image: url(img/photogrid_4-3.jpg)
 
 ---
-class: contact
+class: slide
 
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 # Contact 
 
-### Xavier Adam: xavier.adam@epfl.ch
+</br>
+</br>
+</br>
+</br>
+</br>
 
-### Elise Dupuis Lozeron: Elise.DupuisLozeron@hcuge.ch
+- **Xavier Adam**: xavier.adam@epfl.ch
 
-### Enrico Chavez: enrico.chavez@epfl.ch
+- **Elise Dupuis Lozeron**: Elise.DupuisLozeron@hcuge.ch
 
-### Sina Rüeger: sina.rueeger@gmail.com
+- **Enrico Chavez**: enrico.chavez@epfl.ch
+
+- **Sina Rüeger**: sina.rueeger@gmail.com
 
