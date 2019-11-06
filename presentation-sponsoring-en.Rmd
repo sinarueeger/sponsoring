@@ -1,0 +1,281 @@
+---
+title: "<img src= 'img/placeholder.png' width = '40%'></br></br>satRday"
+subtitle: "Neuchâtel"
+author: "14 March 2020"
+#date: "2016/12/12"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["custom.css", "slides.css"]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: slide 
+
+## satRday - About 
+
+.pull-left[
+
+</br>
+</br>
+</br>
+<img src ="img/placeholder.png" width = "90%"></img>
+
+]
+
+.pull-right[
+
++ satRday is an __international event__ that was launched in 2016.
+
++ satRday has been sponsored by the __RConsortium__, the Linux Foundation's open source project supporting the international R community.
+
++ It's a (relatively) recent project: we aim at organizing one event per continent per quarter.
+
++ Each event usually attracts between 100 and 250 participants.
+
++ The events are always organised with involvement from the local community.
+
+]
+
+---
+class: slide 
+
+## The satRday philosophy
+
+#### Open, and Open source 
+
+Everybody can organise a satRday as long as it follows these requirements: 
+
+
++ The main event must happen on a __Saturday__
+
++ The event must operate under a __Code of Conduct__ and have a __strong commitment to increasing the diversity of speakers and attendees__
+
++ The ticket price to attend the Saturday for an industry person must __cost less than 8 hours of minimum wage work__
+
++ The event has a __pot of free tickets available for people who can’t afford__ the full cost
+
++ Speakers should not be required to pay the attendance fee
+
++ There should be a __mechanism to encourage and mentor new speakers__
+
++ The event should be __volunteer run__
+
++ __Excess funds should support the local community__ whether that’s the user group, holding the funds over for your next satRday, or arranging a prominent international speaker to come and do a workshop during the next year
+
+
+---
+class: slide 
+
+## Why sponsor satRday?
+
+Some good reasons to sponsor a satRday:
+
++ satRday is organized by __volunteers__: by sponsoring the event, you show your support to the local R/Open source community.
+
++ satRday is non-profit: sponsorships and profits (if any) will be __reinvested into community events__.
+
++ satRday is "low-cost": we want to __set the ticket at the lowest possible price__. This is only possible thanks to our sponsors.
+
++ satRday is "at the cutting edge": this conference aims to invite keynote speakers who are __leaders in their field of expertise__.
+
++ satRday is "for everyone": the program is __prepared to suit both beginners and advanced users__.
+
++ satRday is inclusive: by sponsoring this event, you __contribute to the effort to include minorities in the tech/data science sector__. 
+
+---
+class: slide 
+
+## How to sponsor satRday?
+
+How can you help satRday? 
+
++ __Sponsoring Lunch__ : finance the lunch break.
+
++ __Sponsoring Coffee Break__ : finance one or two coffee breaks.
+
++ __Sponsoring Scholarships__ : you sponsor a limited amount of scholarships for students (travel + conference ticket). 
+
++ __Sponsoring Travel__ : you sponsor the reimbursement of travel costs for speakers.
+
++ __Sponsoring Daycare__ : you sponsor the children daycare. 
+
++ __Sponsoring Communication__ : sponsor the printing of posters and programs.
+
++ __Sponsoring General Finance__ : you sponsor the event in a more traditional way with a direct financial donation (e.g. reimbursement of travel costs of speakers).
+
+---
+class: slide 
+
+##  Considerations for sponsoring
+
+Depending on your sponsorship, you will have, in return: 
+
++ Visibility on satRday's __website__ and __Twitter account__.
+
++ Your __logo__ on the posters and programs.
+
++ Your __logo__ on the opening, break, and closing slides of the conference. 
+
+---
+class: slidish 
+
+## satRday - Timeline 
+
+.pull-left[
+
+### 2016 
+
++ Budapest 
+
+### 2017 
+
++ Cape Town 
+
++ Puerto Rico
+
+### 2018 
+
++ Cape Town 
+
++ Cardiff
+
++ Amsterdam 
+
++ Belgrade 
+
++ Washington 
+
+
+]
+
+.pull-right[
+
+### 2019 
+
++ [Paris](https://paris2019.satrdays.org/) 
+
++ [Berlin](https://berlin2019.satrdays.org/)
+
++ Kampala
+
++ Gdansk
+
++ Chicago
+
++ Los Angeles
+
++ Newcastle upon Tyne
+
++ Johannesburg
+    
+]
+
+---
+classe: slide 
+
+## Neuchâtel 2020 
+
+### The Organising team
+
+- [Xavier Adam](https://www.linkedin.com/in/xavier-adam-75803957/): Genève R user group co-organiser, course developer and instructor at EPFL Extension School. 
+
+- [Enrico Chavez](https://www.linkedin.com/in/enrico-chavez-77518311/): Course Developer & Instructor at EPFL Extension School, Senior Lecturer in Statistics and Probability at University of Geneva
+
+- [Elise Dupuis Lozeron](https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/): Statistician at University Hospital in Geneva. 
+
+- [Sina Rüeger](https://www.linkedin.com/in/sinarueeger/): Former R-Ladies Lausanne co-organiser and PostDoc at EPFL, now Data Analyst in Helsinki, Finland.  
+
+---
+classe: slide 
+
+## Neuchâtel 2020 
+
+### Our motivation
+
+- Bringing all R meetups in Switzerland together. 
+
+- Connecting industry sectors and academia. 
+
+- Bridging the gap between small few hours long meetups and larger, yearly-held conferences such as eRUM, useR, EARL. 
+
+- Highlighting the talents of the R community we have here in Switzerland.
+
+
+---
+class: slidish
+
+##  About R
+
+satRday is a conference focused on R, __the main open source language__ for Data Science. 
+
+.pull-left[
+
+</br>
+</br>
+<img src ="img/rlogo.png" width = "90%"></img>
+
+]
+
+.pull-right[
+
++ R is __open source__ : free and open source.
+
++ R is __everywhere__ : used by __university__, __researchers__, and __industry__.
+
++ R has proven itself: it celebrated it's __25th birthday__ this year.
+
++ R is used everywhere: Airbnb, BBC, Booking, Ebay, Facebook, Google, Microsoft, Netflix, Twitter, Uber... 
+
+]
+
+R is today the __lingua franca of Data Science__, and has become a real professional asset, whatever the sector of expertise. 
+
+R users can be found everywhere: in the private sector, with energy, finance, banking, the pharmaceutical industry, marketing, online commerce, as well as in the public sector, where R is used in many ministries.
+
+---
+class: slide
+
+## To know more 
+
+### satRday 
+
++ satRday : https://satrdays.org/ 
+
++ Knowledge Base : https://knowledgebase.satrdays.org/
+
+## R Consortium 
+
++ RConsortium : https://www.r-consortium.org/ 
+
+## R 
+
++ About R : https://www.r-project.org/
+
++ Companies using R : https://github.com/ThinkR-open/companies-using-r
+
+
+---
+class: slide 
+
+background-image: url(img/photogrid_4-3.jpg)
+
+---
+class: contact
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+# Contact 
+
+## Enrico Chavez
+
+### enrico.chavez@epfl.ch
+
+
