@@ -197,19 +197,3 @@ class: slide
 
 background-image: url(img/photogrid_4-3.jpg)
 
----
-class: contact
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-# Contact 
-
-## Enrico Chavez
-
-### enrico.chavez@epfl.ch
-
-
