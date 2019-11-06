@@ -222,8 +222,11 @@ class: contact
 
 # Contact 
 
-## Enrico Chavez
+### Xavier Adam: xavier.adam@epfl.ch
 
-### enrico.chavez@epfl.ch
+### Elise Dupuis Lozeron: Elise.DupuisLozeron@hcuge.ch
 
+### Enrico Chavez: enrico.chavez@epfl.ch
+
+### Sina Rüeger: sina.rueeger@gmail.com
 
