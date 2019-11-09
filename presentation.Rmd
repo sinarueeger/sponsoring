@@ -129,13 +129,13 @@ classe: slide
 
 ### The Organising team
 
-- [Xavier Adam](https://www.linkedin.com/in/xavier-adam-75803957/): Genève R user group co-organiser, course developer and instructor at EPFL Extension School. 
+- [Xavier Adam](https://www.linkedin.com/in/xavier-adam-75803957/): Genève R user group co-organiser, Course Developer and Instructor at EPFL Extension School. 
 
 - [Enrico Chavez](https://www.linkedin.com/in/enrico-chavez-77518311/): Course Developer & Instructor at EPFL Extension School, Senior Lecturer in Statistics and Probability at University of Geneva
 
-- [Elise Dupuis Lozeron](https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/): Statistician at University Hospital in Geneva. 
+- [Elise Dupuis Lozeron](https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/): Statistician at the Geneva University Hospitals. 
 
-- [Sina Rüeger](https://www.linkedin.com/in/sinarueeger/): Former R-Ladies Lausanne co-organiser and PostDoc at EPFL, now Data Analyst in Helsinki, Finland.  
+- [Sina Rüeger](https://www.linkedin.com/in/sinarueeger/): Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Analyst in Helsinki, Finland.  
 
 ---
 classe: slide 
@@ -226,7 +226,7 @@ class: slide
 
 - **Xavier Adam**: xavier.adam@epfl.ch
 
-- **Elise Dupuis Lozeron**: Elise.DupuisLozeron@hcuge.ch
+- **Elise Dupuis Lozeron**: elise.lozeron@gmail.com
 
 - **Enrico Chavez**: enrico.chavez@epfl.ch
 
